@@ -1,0 +1,32 @@
+TDC
+
+x reverse = false
+p 7
+i 0.2
+d 0.05
+imax 10
+minmove 2
+
+y reverse = true
+p 7
+i 0.2
+d 0.05
+imax 10 
+minmove 2
+
+
+TIM
+
+x reverse = false
+p 30
+i 0.02
+d 0.02
+imax 10
+minmove 5
+
+y reverse = true
+p 30
+i 0.02
+d 0.02
+imax 10
+minmove 5
